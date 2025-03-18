@@ -10,7 +10,7 @@
       "formData": {
         "textGeneration": {
           "input": {
-            "data": "{{inputs.prompt}}"
+            "data": "Give response in under 100 characters {{inputs.prompt}}"
           }
         },
         "usecase": {
