@@ -1,0 +1,23 @@
+{
+  "gitSyncId": "67d94aa310ed5751471c0831_f6e0af5a-e4aa-4529-877a-2e63e5d7fb7b",
+  "moduleUUID": "6776c6d2-6176-48c6-8f19-ef088fe1d0fc",
+  "type": "QUERY_MODULE",
+  "unpublishedModule": {
+    "inputsForm": [
+      {
+        "children": [
+          {
+            "controlType": "INPUT_TEXT",
+            "defaultValue": "",
+            "id": "vmeeictodt",
+            "label": "prompt",
+            "propertyName": "inputs.prompt"
+          }
+        ],
+        "id": "nozsbvrgaf",
+        "sectionName": ""
+      }
+    ],
+    "name": "generate_ai_text"
+  }
+}
